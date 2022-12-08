@@ -1,0 +1,21 @@
+.medias-socias{
+    margin-top: 30px;   
+}
+.medias-socias a{
+    text-decoration: none;
+}
+
+.medias-socias i{
+    font-size: 23px;
+    margin: 0 5px;
+    color: white;
+    background-color: red;
+    padding : 7px;
+    border-radius: 5px;
+    justify-self: 30px;
+}
+.menu-icon{
+    cursor: pointer;
+    display: none;
+}
+ 
