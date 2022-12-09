@@ -17,5 +17,20 @@
 .menu-icon{
     cursor: pointer;
     display: none;
-}
  
+   
+}
+
+.carousel-inner{
+    cursor: pointer;
+   
+
+}
+.header{
+    text-decoration-style: solid;
+    display: block;
+}
+
+
+ 
+  
